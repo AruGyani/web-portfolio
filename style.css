@@ -488,6 +488,10 @@ footer {
     left: 30px;
     padding-right: 30px;
   }
+
+  .project:active .project__wrapper:before {
+    opacity: 0.7;
+  }
 }
 
 
