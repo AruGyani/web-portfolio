@@ -522,4 +522,8 @@ footer {
     text-align: center;
     margin: 12px 0;
   }
+  
+  .project:active .project__wrapper:before {
+    opacity: 0.7;
+  }
 }
